@@ -1,0 +1,4 @@
+#Mon Aug 13 12:44:20 AZOST 2018
+base.0=/home/thomas/SmartVase/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/thomas/SmartVase/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
